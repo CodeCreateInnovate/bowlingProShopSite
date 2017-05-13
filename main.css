@@ -53,3 +53,9 @@ h5.modal-title {
   
 }
 
+.modal-content p {
+  margin: auto;
+  padding: 5px;
+  background-color: black;
+  color: white;
+}
