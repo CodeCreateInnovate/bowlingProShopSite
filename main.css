@@ -5,7 +5,7 @@
 }
 
 .sectionLight {
-  background-color: lightgray;
+  background-color: white;
   padding: 2em;
 }
 
@@ -57,5 +57,31 @@ h5.modal-title {
   margin: auto;
   padding: 5px;
   background-color: black;
+  color: white;
+}
+
+.footerImg {
+  padding: 15px;
+  height: 150px;
+  widows: 250px;
+}
+
+.fa {
+  margin: 10px;
+}
+
+.socialWrapper {
+  margin: auto;
+}
+
+.fa-facebook-square {
+  color: #3b5998
+}
+
+.fa-google-plus-square {
+  color: #c32f10
+}
+
+.fa-instagram {
   color: white;
 }
